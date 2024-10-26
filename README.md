@@ -28,11 +28,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ebad_shabbir21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebad_shabbir21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebad shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebad shabbir" height="30" width="40" /></a>
-<a href="https://kaggle.com/ebad shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebad shabbir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebad-shabbir-b9b34a282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebad shabbir" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ebadshabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebad shabbir" height="30" width="40" /></a>
 <a href="https://instagram.com/ebad.shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebad.shabbir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ebad shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebad shabbir" height="30" width="40" /></a>
-<a href="https://discord.gg/rage7801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rage7801" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ebadshabbir22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebad shabbir" height="30" width="40" /></a>
+<a href="https://discord.gg/rage#7801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rage7801" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
