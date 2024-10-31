@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Model making**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ebad-shabbir-b9b34a282/](https://www.linkedin.com/in/ebad-shabbir-b9b34a282/)
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/ebadshabbir/](https://www.kaggle.com/ebadshabbir)
 
 - 💬 Ask me about **Machine Learning, Python and its libraries and Data explotation**
 
