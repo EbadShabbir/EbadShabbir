@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ebad_shabbir21" target="blank"><img src="https://img.shields.io/twitter/follow/ebad_shabbir21?logo=twitter&style=for-the-badge" alt="ebad_shabbir21" /></a> </p>
 
-- 🔭 I’m currently working on **Efficient/Low-Resource Methods for NLP**
+- 🔭 I’m currently working on **Efficient/Low-Resource Methods for LLM**
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
